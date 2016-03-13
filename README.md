@@ -1,4 +1,4 @@
-# Romulus-5 Rover Code
+# Romulus 5 Rover Code
 
 Competition code for the MathWorks Mission on Mars Robot Challenge This Simulink project contains the files for the Mathworks Mars Rover robot competition 2015.
 
