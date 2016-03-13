@@ -4,9 +4,9 @@ Competition code for the MathWorks Mission on Mars Robot Challenge This Simulink
 
 #### Quick Start
 
-1. Open the project by double clicking the Compet.prj file in MATLAB
-2. Open Model/SimulationModel.slx
-3. Press Run to start simulation
+1. Open the project by double clicking the *Compet.prj* file in MATLAB
+2. Open *Model/SimulationModel.slx*
+3. Press *Run* to start simulation
 
 #### Requirements
 
