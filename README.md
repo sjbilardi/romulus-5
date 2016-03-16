@@ -17,4 +17,3 @@ Arduino DUE Simulink support package is needed
 
 31/03/2015 v1.0 First Release
 
-### Hello World!
