@@ -2,9 +2,10 @@
 classdef EObstacles < Simulink.IntEnumType
    
     enumeration
-        NONE        (0)
-        CORRECTION  (1)
-        AVOIDANCE   (2)
+        NONE          (0)
+        CORRECTION    (1)
+        AVOIDANCE     (2)
+        WALLAVOIDANCE (3)
     end
     
 end
