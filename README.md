@@ -2,6 +2,14 @@
 
 Competition code for the MathWorks Mission on Mars Robot Challenge This Simulink project contains the files for the Mathworks Mars Rover robot competition 2015.
 
+#### 3/18/2016
+
+Added the ability to avoid walls and go around individual objects in front of the rover. Currently fine tuning these parameters. Also adding:
+
+* present path to follow. Consists of a main outer loop and inner loop inside the arena.
+* ability to better reach targets near the edge of the camera's field of view.
+* better object detection during avoidance maneuvers and continuation of path after reach target location.
+
 #### 3/17/2016
 
 There are three distance measurements, measured 25$^\circ$ apart from each other. These will be used to determine if a wall is present if front of the rover. 
