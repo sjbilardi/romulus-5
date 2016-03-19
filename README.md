@@ -13,7 +13,7 @@ Added the ability to avoid walls and go around individual objects in front of th
 
 #### 3/17/2016
 
-There are three distance measurements, measured 25$^\circ$ apart from each other. These will be used to determine if a wall is present if front of the rover. 
+There are three distance measurements, measured 25 degrees apart from each other. These will be used to determine if a wall is present if front of the rover. 
 
 #### Quick Start
 
