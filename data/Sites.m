@@ -1,9 +1,3 @@
-% File Autogenerate by function ArenaController
-<<<<<<< HEAD
-% Date Friday 18 March 2016 18:15:28
-=======
-% Date Friday 18 March 2016 02:15:59
->>>>>>> origin/Erik's
 SitesPositions = single([...
 	 198, 149;...
 	  48, 101;...
