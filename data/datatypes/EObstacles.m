@@ -6,6 +6,7 @@ classdef EObstacles < Simulink.IntEnumType
         CORRECTION    (1)
         AVOIDANCE     (2)
         WALLAVOIDANCE (3)
+        GOAROUND      (4)
     end
     
 end
