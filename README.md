@@ -9,6 +9,7 @@ Added the ability to avoid walls and go around individual objects in front of th
 * present path to follow. Consists of a main outer loop and inner loop inside the arena.
 * ability to better reach targets near the edge of the camera's field of view.
 * better object detection during avoidance maneuvers and continuation of path after reach target location.
+* if the rover detects an object as it avoids an object, it will be able to return to its original path. This is in progress. **NOTE:** Currently, there is an issue with determining the angle used to return the rover to the path. This is caused from a negative number. Not sure why this is happening yet.
 
 #### 3/17/2016
 
