@@ -1,3 +1,7 @@
 # temporary / files
 work/slprj/_sfprj/precompile
 *.mat
+*.l
+
+# autosave / files
+*.autosave

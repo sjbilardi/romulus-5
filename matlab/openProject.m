@@ -5,7 +5,6 @@ function openProject
 %
 %
 %
-
 % Check that version of MATLAB is 8.6 (R2015b)
 if verLessThan('matlab', '8.6')
     error('MATLAB 8.6 (R2015b) or higher is required.');
